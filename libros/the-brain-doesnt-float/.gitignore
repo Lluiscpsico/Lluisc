@@ -1,0 +1,5 @@
+build/_*.md
+build/epub.css
+build/epub-meta.yaml
+build/reference_6x9.docx
+build/__pycache__/
